@@ -5,9 +5,10 @@
 <h2 align="center">
 :rocket: Inicio do curso LaunchBase :rocket:
 </h2>
-
-## :computer: Desafios
-
+<h2 align="center">
+:computer: Desafios
+</h2>
+<body align="center">
 São 4 desafios com o intuito de fixação de conteúdo.
 
 Obrigado pela ajuda com as dúvidas [Mayk](https://github.com/maykbrito)
@@ -15,3 +16,4 @@ Obrigado pela ajuda com as dúvidas [Mayk](https://github.com/maykbrito)
 ---
 
 Feito com :purple_heart: by Alexandre Coelho :wave:
+</body>
