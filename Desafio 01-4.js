@@ -70,6 +70,8 @@ getHigherTransactionByType("debit")
 
 getTransactionsCount()
 
+console.log(user.balance)
+
 
 
 
