@@ -1,5 +1,5 @@
-<h1>
-<img src="https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/logo.svg">
+<h1 align="center">
+    <img alt="Launchbase" src="https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/logo.svg" width="200px" />
 </h1>
 
 
