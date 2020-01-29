@@ -2,8 +2,9 @@
     <img alt="Launchbase" src="https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/logo.svg" width="200px" />
 </h1>
 
-
+<h2 aling="center">
 # :rocket: Inicio do curso LaunchBase :rocket:
+</h2>
 
 ## :computer: Desafios
 
