@@ -22,7 +22,7 @@ const sexo = "F"
 const idade = 21
 const contribuição = 5
 
-if ((sexo == "M" && idade + contribuição >= 95 ) || sexo == "F" && idade + contribuição >= 80 ) {
+if ((sexo == "F" && idade + contribuição >= 95 ) || sexo == "F" && idade + contribuição >= 80 ) {
     console.log(`${nome}, você pode se aposentar!`)
 } else {
     console.log(`${nome}, você não pode se aposentar!`)
