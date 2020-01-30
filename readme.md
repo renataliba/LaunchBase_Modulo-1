@@ -11,7 +11,5 @@
 <h4 align="center">
 São 4 desafios com o intuito de fixação de conteúdo.
 
-Obrigado pela ajuda com as dúvidas [Mayk](https://github.com/maykbrito)
-
 ---
 </h4>
