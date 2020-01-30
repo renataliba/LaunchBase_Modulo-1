@@ -2,22 +2,23 @@
 
 /*CÁLCULO IMC*/
 
-// const nome = 'Alexandre'
-// const peso = 95
-// const altura = 1.80
+// const nome = 'Renata'
+// const peso = 59
+// const altura = 1.64
 
 // const imc = peso / (altura * altura)
 
-// if (imc >= 30) {
-//     console.log(`${nome}, você esta acima do peso`)
+//if (IMC >=30) {
+//  console.log(`${nome}, Vc está acima do peso, se cuida!`)  
 // } else {
-//     console.log(`${nome}, você não está acima do peso`)
+//  console.log(`${nome}, Arrasou! Continue assim, Lindeza!`)
 // }
+
 
 /*CÁLCULO APOSENTADORIA*/
 
-const nome = "Alexandre"
-const sexo = "M"
+const nome = "Renata"
+const sexo = "F"
 const idade = 21
 const contribuição = 5
 
