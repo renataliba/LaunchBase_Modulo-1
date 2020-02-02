@@ -2,28 +2,43 @@
 
 /*CÁLCULO IMC*/
 
-// const nome = 'Renata'
-// const peso = 59
-// const altura = 1.64
+const nome = 'Renata' 
+//No JS usar o ; é facultativo
+//console.log(nome) - comando para impressão
+//as strings podem ser declaradas com aspas duplas ou simples e com a 
+//`` é uma template string que aceita variáveis dentro dela
+//const nome3 = `Valeska e ${nome}`
 
-// const imc = peso / (altura * altura)
+//if (condicao1) {
+//    if (condicao2) {
+      // Condição 1 e 2 passaram
+//    } else { 
+      // Condição 1 passou, porém condição 2 não passou
+//    }
+//  } else {
+    // Condição 1 não passou
+//  }
 
-//if (IMC >=30) {
-//  console.log(`${nome}, Vc está acima do peso, se cuida!`)  
-// } else {
-//  console.log(`${nome}, Arrasou! Continue assim, Lindeza!`)
-// }
+//Desafio cálculo IMC
+const peso = 58
+const altura = 1.64
 
+const IMC = peso/(altura*altura)
 
-/*CÁLCULO APOSENTADORIA*/
+if (IMC >=30) {
+  console.log(`${nome}, Vc está acima do peso, se cuida!`)  
+} else {
+  console.log(`${nome}, Arrasou! Continue assim, Lindeza!`)
+}
 
-const nome = "Renata"
+//Desafio Aposentadoria
 const sexo = "F"
-const idade = 21
-const contribuição = 5
+const idade = 45
+const contrib = 40
 
-if ((sexo == "F" && idade + contribuição >= 95 ) || sexo == "F" && idade + contribuição >= 80 ) {
+if (sexo == "F" && idade + contrib >= 85 
+|| sexo == "M" && idade + contrib >= 95 ) {
     console.log(`${nome}, você pode se aposentar!`)
 } else {
-    console.log(`${nome}, você não pode se aposentar!`)
+console.log(`${nome}, você não pode se aposentar!`)
 }
